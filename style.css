@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+body.default {
+  
+  background-image: url("images/Retro_BG_Texture.png");
+  background-size: cover;
+  background-position: center;
+
+  color: green;
+  font-family: 'Pixelify Sans', sans-serif;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  height: 100vh;
+  
+  margin: 0;
+  
+}
+
+.text-box-1 {
+  
+  width: 70%;
+  background-color: black;
+  color: green;
+
+  padding: 20px;
+  border: 2px solid green;
+  word-break: break-word;
+  
+}
