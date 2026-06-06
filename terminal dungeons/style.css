@@ -1,11 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch :wght@400..700&display=swap');
+
+title {
+
+  font-family: 'Rubik Glitch', sans serif:
+  color: blue
+
 body.default {
   
-  background-image: url("/images/Retro_BG_Texture.png");
+  background-image: url("/pages/terminal dungeons/images/LINK");
   background-size: cover;
   background-position: center;
 
-  color: green;
+  color: blue;
   font-family: 'Pixelify Sans', sans-serif;
   
   display: flex;
@@ -20,12 +27,12 @@ body.default {
 
 .text-box-1 {
   
-  width: 70%;
+  width: 85%%;
   background-color: black;
-  color: green;
+  color: blue;
 
-  padding: 20px;
-  border: 2px solid green;
+  padding: 10px;
+  border: 1px blue;
   word-break: break-word;
   
 }
