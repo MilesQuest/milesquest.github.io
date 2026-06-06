@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
 body.default {
   
-  background-image: url("images/Retro_BG_Texture.png");
+  background-image: url("/images/Retro_BG_Texture.png");
   background-size: cover;
   background-position: center;
 
